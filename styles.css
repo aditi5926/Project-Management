@@ -15,7 +15,7 @@ body {
  
  /* Container Styles */
  .container {
-     width: 90%;
+     width: 90%;  
      max-width: 450px;
      padding: 20px;
      background-color: #fff;
